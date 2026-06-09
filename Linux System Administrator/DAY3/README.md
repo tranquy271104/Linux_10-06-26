@@ -29,7 +29,6 @@ Mục tiêu của bài học này nhằm hoàn thiện môi trường Lab ảo h
   ```bash
   ip address show
 
-
 * Ghi nhớ địa chỉ IP hiển thị tại card mạng thứ nhất (Card mạng mạng NAT).
 * Mở **PuTTY** trên Windows: Điền IP của CentOS vào ô `Host Name` (Port: 22, Connection type: SSH) -> Nhấn `Open` -> Chọn `Accept` tại bảng cảnh báo bảo mật lần đầu kết nối -> Đăng nhập bằng tài khoản tối cao `root` và mật khẩu tương ứng.
 
