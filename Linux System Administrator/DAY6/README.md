@@ -36,9 +36,9 @@ Vì hệ thống lưu trữ tệp tin trong `/dev` dưới dạng mã nhị phâ
 * **Chức năng:** Liệt kê danh sách tất cả các thiết bị lưu trữ dạng khối (Ổ cứng, phân vùng, ổ đĩa quang CD-ROM).
 * **Cấu trúc hiển thị:** Tên ổ cứng, kích thước dung lượng (SIZE), kiểu thiết bị (vùng đĩa hay phân vùng) và điểm gắn kết (Mount Point).
 * **Tham số mở rộng:**
-  ```bash
-  # Hiển thị thông tin ổ cứng chi tiết dưới dạng bảng cấu trúc định dạng hệ thống tệp tin
-  lsblk -f
+```bash
+# Hiển thị thông tin ổ cứng chi tiết dưới dạng bảng cấu trúc định dạng hệ thống tệp tin
+lsblk -f
 
 ```
 
