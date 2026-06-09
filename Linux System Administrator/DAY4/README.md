@@ -45,7 +45,7 @@ Trong bài học này, chúng ta sử dụng chuỗi lệnh cơ bản sau để 
 
 1. **`man` (Manual):** Tra cứu hướng dẫn và tài liệu chính thức của hệ thống.
 ```bash
-   man proc
+man proc
 
 ```
 
