@@ -34,7 +34,6 @@ Ngay sau khi khởi động, tiến trình `init` sẽ tìm đọc tệp cấu h
 Mỗi dòng cấu hình trong tệp `/etc/inittab` tuân theo cú pháp phân tách nhau bởi **hai dấu chấm (`:`)** gồm 4 trường thông tin:
 ```text
 id:runlevels:action:process
-
 ```
 
 * **`id` (Identifier):** Mã định danh duy nhất (từ 1 đến 4 ký tự) đại diện cho dòng cấu hình đó.
@@ -50,7 +49,6 @@ id:runlevels:action:process
 
 ```text
 id:3:initdefault:
-
 ```
 
 *Giải thích:* Dòng này khai báo hệ thống sẽ lấy **Runlevel 3** (Giao diện dòng lệnh đa người dùng) làm chế độ khởi động mặc định, trường `process` để trống vì đây là lệnh thiết lập cấu hình tổng thể.
