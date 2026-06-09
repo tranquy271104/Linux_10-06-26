@@ -1,16 +1,4 @@
-# Khóa Học Linux System Administrator (LPIC-1: Exam 101 & 102)
-
-Kho lưu trữ tài liệu, ghi chú và bài tập thực hành lộ trình học quản trị hệ thống Linux hướng đến chứng chỉ quốc tế LPIC-1.
-
----
-
 ## 📌 Bài 01: Giới thiệu về khóa học Linux System Administrator Exam 101 & 102
-
-### 👨‍🏫 Thông Tin Giảng Viên
-* **Giảng viên:** Thầy Lưu Hộ Phương
-* **Kinh nghiệm:** Trên 19 năm trong lĩnh vực CNTT (Lập trình viên, Kỹ sư mạng, Quản trị hệ thống, Trưởng phòng IT và Giám đốc kỹ thuật cho các doanh nghiệp Việt Nam & Nước ngoài).
-
----
 
 ## 🗂️ Nội Dung Tổng Quan Khóa Học
 
