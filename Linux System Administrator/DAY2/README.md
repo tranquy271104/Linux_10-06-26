@@ -1,9 +1,3 @@
-# 🛠️ Giáo Trình Thực Hành Linux System Administrator (LPIC-1)
-
-Kho lưu trữ cấu hình mã nguồn, ghi chú chi tiết và tài liệu lab thực hành hệ thống phục vụ lộ trình học và ôn thi chứng chỉ quốc tế **LPIC-1 (Exam 101 & 102)**.
-
----
-
 ## 📅 Bài 02: Cài đặt cấu hình VMware và Linux CentOS 8 (Phần 1)
 
 Mục tiêu bài học nhằm xây dựng môi trường lab ảo hóa chuẩn hóa, phân chia phân vùng thủ công đáp ứng các tiêu chuẩn triển khai hạ tầng thực tế.
