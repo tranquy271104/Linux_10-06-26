@@ -1,6 +1,3 @@
-Dưới đây là mã nguồn Markdown hoàn chỉnh cho **Bài 03** để bạn lưu vào tệp `README.md`. Nội dung được thiết kế chuẩn cấu trúc tài liệu kỹ thuật, tách biệt các bước cấu hình và đóng gói sẵn các khối lệnh để bạn dễ dàng quản lý:
-
-```markdown
 # 🛠️ Giáo Trình Thực Hành Linux System Administrator (LPIC-1)
 
 Kho lưu trữ cấu hình mã nguồn, ghi chú chi tiết và tài liệu lab thực hành hệ thống phục vụ lộ trình học và ôn thi chứng chỉ quốc tế **LPIC-1 (Exam 101 & 102)**.
