@@ -53,8 +53,8 @@ Một tệp cấu hình dịch vụ chuẩn (Ví dụ: `httpd.service` của Apa
 Công cụ dòng lệnh chính thức được sử dụng để quản trị, giám sát và kiểm tra trạng thái các Unit trong Systemd là **`systemctl`** (*System Control*):
 
 * **Liệt kê tất cả Unit files hiện có trên hệ thống:**
-  ```bash
-  systemctl list-unit-files
+```bash
+systemctl list-unit-files
 
 ```
 
