@@ -31,7 +31,7 @@ Khi hệ thống đang hoạt động, người quản trị có thể kiểm tr
 #### B. Lệnh `telinit` (hoặc `init`)
 * **Chức năng:** Ra lệnh cho tiến trình `init` chuyển đổi ngay lập tức sang một Runlevel được chỉ định.
 * **Cú pháp:** `telinit <số_runlevel>` (hoặc `init <số_runlevel>`).
-  ```bash
+```bash
   # Chuyển từ môi trường đồ họa (Runlevel 5) sang môi trường dòng lệnh (Runlevel 3)
   telinit 3
 
