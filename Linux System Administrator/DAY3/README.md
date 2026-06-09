@@ -74,9 +74,3 @@ ping google.com
 ---
 
 *Ghi chú: Hoàn thành bài học này, bạn đã xây dựng thành công hạ tầng Lab ảo hóa cơ bản gồm cả CentOS Stream 8 và Ubuntu Desktop 22.04 sẵn sàng cho lộ trình LPIC-1.*
-
-```
-
-4. Kéo xuống dưới cùng nhấn nút **Commit changes...** để lưu lại là xong. Lúc này file `README.md` của bạn nhìn sẽ rất đẹp và chuẩn chỉnh!
-
-```
