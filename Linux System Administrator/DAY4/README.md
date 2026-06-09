@@ -44,7 +44,7 @@ Mặc dù hệ thống có nhiều tệp tin ảo, lộ trình thi chứng chỉ
 Trong bài học này, chúng ta sử dụng chuỗi lệnh cơ bản sau để tương tác và điều tra hệ thống tệp tin ảo:
 
 1. **`man` (Manual):** Tra cứu hướng dẫn và tài liệu chính thức của hệ thống.
-   ```bash
+```bash
    man proc
 
 ```
