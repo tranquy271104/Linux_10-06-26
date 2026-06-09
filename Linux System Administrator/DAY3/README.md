@@ -11,7 +11,8 @@ Mục tiêu của bài học này nhằm hoàn thiện môi trường Lab ảo h
   * Hệ điều hành khách (**Guest OS**): Chọn **Linux** / Phiên bản (**Version**): Chọn **Ubuntu 64-bit**.
   * **Đường dẫn lưu trữ (`Location`):** Chuyển từ ổ mặc định `C:\` sang ổ đĩa dữ liệu khác (`D:\`, `E:\`...) để bảo vệ dữ liệu máy ảo.
   * **Cấu hình ổ đĩa:** Đặt dung lượng mặc định **20 GB** dưới dạng một file duy nhất (`Store virtual disk as a single file`).
-* **Tiến trình cài đặt đồ họa:** * Gắn file ISO vào mục CD/DVD trong cấu hình phần cứng -> Chọn `Power On`.
+* **Tiến trình cài đặt đồ họa:**
+  * Gắn file ISO vào mục CD/DVD trong cấu hình phần cứng -> Chọn `Power On`.
   * Tại menu khởi động, chọn `Try or Install Ubuntu`.
   * Nhấn nút **Install Ubuntu** -> Giữ cấu hình bàn phím mặc định `English (US)`.
   * Kiểu cài đặt: Chọn phân vùng tự động mặc định (`Erase disk and install Ubuntu`) -> Chọn **Install Now**.
@@ -52,7 +53,6 @@ sudo sed -i 's/^SELINUX=enforcing/SELINUX=disabled/' /etc/selinux/config
 
 
 * **Vô hiệu hóa Tường lửa (Firewall):**
-*Lưu ý: Trong môi trường doanh nghiệp triển khai thực tế, bạn tuyệt đối không được tắt Firewall. Tuy nhiên trong môi trường học tập, việc vô hiệu hóa tường lửa giúp các máy khách Client truy cập các dịch vụ thử nghiệm (Web Server, Database) dễ dàng.*
 ```bash
 # Dừng ngay lập tức dịch vụ tường lửa đang chạy
 sudo systemctl stop firewalld
@@ -75,3 +75,8 @@ ping google.com
 
 *Ghi chú: Hoàn thành bài học này, bạn đã xây dựng thành công hạ tầng Lab ảo hóa cơ bản gồm cả CentOS Stream 8 và Ubuntu Desktop 22.04 sẵn sàng cho lộ trình LPIC-1.*
 
+```
+
+4. Kéo xuống dưới cùng nhấn nút **Commit changes...** để lưu lại là xong. Lúc này file `README.md` của bạn nhìn sẽ rất đẹp và chuẩn chỉnh!
+
+```
