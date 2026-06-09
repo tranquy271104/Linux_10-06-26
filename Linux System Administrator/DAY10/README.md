@@ -82,10 +82,3 @@ sudo init 0
 ---
 
 *Ghi chú: Cách đọc kết quả lệnh `runlevel`, cú pháp tệp `/etc/inittab` (`id:5:initdefault:`), lệnh chuyển đổi môi trường `telinit` và kỹ thuật can thiệp đối số dòng lệnh Kernel trong GRUB là những câu hỏi thực hành trọng tâm của chứng chỉ LPIC-1.*
-
-```
-
-
-http://googleusercontent.com/youtube_content/9
-
-```
