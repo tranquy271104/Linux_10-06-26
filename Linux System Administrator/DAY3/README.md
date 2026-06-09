@@ -1,9 +1,3 @@
-# 🛠️ Giáo Trình Thực Hành Linux System Administrator (LPIC-1)
-
-Kho lưu trữ cấu hình mã nguồn, ghi chú chi tiết và tài liệu lab thực hành hệ thống phục vụ lộ trình học và ôn thi chứng chỉ quốc tế **LPIC-1 (Exam 101 & 102)**.
-
----
-
 ## 📅 Bài 03: Cài đặt cấu hình Vmware và Linux Centos & Ubuntu (Phần 2)
 
 Mục tiêu của bài học này nhằm hoàn thiện môi trường Lab ảo hóa bằng cách cài đặt hệ điều hành **Ubuntu Desktop 22.04**, thiết lập công cụ quản trị từ xa **PuTTY**, và tối ưu hóa hệ thống CentOS Stream 8 phục vụ học tập.
@@ -81,6 +75,3 @@ ping google.com
 
 *Ghi chú: Hoàn thành bài học này, bạn đã xây dựng thành công hạ tầng Lab ảo hóa cơ bản gồm cả CentOS Stream 8 và Ubuntu Desktop 22.04 sẵn sàng cho lộ trình LPIC-1.*
 
-```
-
-```
